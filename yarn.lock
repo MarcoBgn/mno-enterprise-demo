@@ -12,4 +12,4 @@
 
 "mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#feature/subtenant":
   version "1.0.0"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#51c0132a849322f7f41d2b407f88ad046a2f8c0d"
+  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#18a1402d56e72e0c67f861b47a927b46e0b4b805"
