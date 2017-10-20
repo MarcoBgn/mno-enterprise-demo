@@ -1,12 +1,12 @@
 impac:
   protocol: https
-  host: api-impac.maestrano.com
+  host: api-impac-teapot.maestrano.com
   paths:
     mnohub_api: /mnoe/jpi/v1
   pusher:
     key: <%= ENV['impac_pusher_key'] %>
 mno:
   protocol: https
-  host: api-hub.maestrano.com
+  host: api-hub-teapot.maestrano.com
   paths:
     root: /api/mnoe/v1
